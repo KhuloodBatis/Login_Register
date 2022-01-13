@@ -1,2 +1,3 @@
-#This project is an implementation of the login and Register process using Mailtrap.com and API default
-#and how can resetPassword 
+#This project is an implementation of the Auth login and Register process with API default
+# using https://mailtrap.io/ to vreification email or mobile 
+# how can resetPassword 
